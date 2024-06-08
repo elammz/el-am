@@ -1,2 +1,2 @@
 # el-am
-Trial
+This file contains description on how to use
